@@ -341,5 +341,12 @@
     "name": "미친놈 (Feat. 제시)",
     "src": "./music/gun.mp3",
     "imgsrc": "./images/gun.jpg"
+  },
+  {
+    "id": "music13",
+    "singer": "BOYNEXTDOOR",
+    "name": "123-78",
+    "src": "./music/bnd12378.mp3",
+    "imgsrc": "./images/bnd12378.jpg"
   }
 ]
