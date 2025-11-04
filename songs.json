@@ -334,5 +334,12 @@
     "name": "body",
     "src": "./music/body.mp3",
     "imgsrc": "./images/body.jpg"
+  },
+  {
+    "id": "music67",
+    "singer": "#Gun",
+    "name": "미친놈 (Feat. 제시)",
+    "src": "./music/gun.mp3",
+    "imgsrc": "./images/gun.jpg"
   }
 ]
